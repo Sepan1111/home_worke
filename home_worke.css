@@ -1,0 +1,40 @@
+.o{
+    height: 20px;
+    width: 218px;
+    background-color: black;
+    display: inline-flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 0px;
+    border: 5px solid yellow;
+    padding-left: 218px;
+    color: yellow;
+}
+.oo{
+    height: 20px;
+    width: 218px;
+    background-color: black;
+    display: inline-flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 0px;
+    border: 5px solid yellow;
+    padding-left: 218px;
+    color: yellow;
+}
+.ooo{
+    height: 20px;
+    width: 218px;
+    background-color: black;
+    display: inline-flex;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 0px;
+    border: 5px solid yellow;
+    padding-left: 218px;
+    color: yellow;
+    margin-right: 0px;
+}
+.bady{
+    background-color: black;
+}
